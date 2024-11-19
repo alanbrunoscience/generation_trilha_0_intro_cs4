@@ -2,7 +2,7 @@
 
 <br>
 
-Este repositório contém a resolução dos exercícios de lógica de programação do Bootcamp da [**Generation**](https://brazil.generation.org/), utilizando a linguagem de programação "Portugol". Abaixo, seguem as listas de exercícios com os enunciados:
+Este repositório contém a resolução dos exercícios de lógica de programação do Bootcamp da [**Generation**](https://brazil.generation.org/), utilizando a linguagem de programação **Portugol**. Abaixo, seguem as listas de exercícios com os enunciados:
 
 <br>
 
