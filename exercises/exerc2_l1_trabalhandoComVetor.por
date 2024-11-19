@@ -15,22 +15,22 @@ programa
 
 		limpa()
 
-		escreva("\nElementos nos índices ímpares:\n")
+		escreva("Elementos nos índices ímpares:\n")
 		para(inteiro i = 1; i <= tamanho; i = i + 2) {
 			escreva(numeros[i], " ")
 		}
 
-		escreva("\nElemento pares:\n")
+		escreva("\n\nElemento pares:\n")
 		para(inteiro i = 0; i < tamanho; i++) {
 			se(numeros[i] % 2 == 0) {
 				escreva(numeros[i], " ")	
 			}
 		}
 
-		escreva("\nSoma:\n")
+		escreva("\n\nSoma:\n")
 		escreva(sum)
 
-		escreva("\nMédia:\n")
+		escreva("\n\nMédia:\n")
 		escreva(sum/tamanho)
 		
 	}
@@ -40,7 +40,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 92; 
+ * @POSICAO-CURSOR = 567; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
